@@ -1,19 +1,19 @@
 ---
-title: Pendu JAVASCRIPT
-publishDate: 2020-03-07 00:00:00
+title: crmClient JAVA-React
+publishDate: 2020-03-09 00:00:00
 img: /assets/stock-5.jpg
 img_alt: Hangman 
 description: |
   The Ultimate Word Guessing Adventure: Hangman Mastery Challenge!
 tags:
   - Design
-  - Dev Back-end
+  - Dev Backend - Frontend
   - User Testing
 ---
 
-## Hangman  game
+## crmClient  App
 
-> Hangman  game
+> crmClient  app
 
 The Hangman game is a classic word-guessing game designed for fun and entertainment. In this game, one player thinks of a word and the other player tries to guess it by suggesting letters within a limited number of attempts. The word to be guessed is initially represented by a series of underscores, each underscore representing a letter in the word.
 

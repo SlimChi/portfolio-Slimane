@@ -66,4 +66,4 @@ Anonymize Comments (client-side)
 Report a Comment
 This comprehensive carpooling platform goes beyond the traditional rideshare model by introducing a point-based system, fostering a sense of community and reducing financial transactions. With robust user profiles, journey management features, and an intuitive interface, the application aims to redefine the carpooling experience. The administrative tools ensure efficient platform management, creating a secure and user-friendly environment for all participants.
 
-<p><a href="https://github.com/INCUBATEUR-M2i-AFPA/share-car-backend" target="_blank">Voir le code source sur GitHub</a></p>
+<p><a href="https://github.com/INCUBATEUR-M2i-AFPA/share-car-backend" target="_blank">View the source code on GitHub</a></p>
