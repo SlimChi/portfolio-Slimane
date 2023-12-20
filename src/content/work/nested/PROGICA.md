@@ -31,3 +31,6 @@ Service criteria: linen rental, end-of-stay cleaning, internet access.
 If certain services or amenities incur charges, their costs must be clearly indicated.
 
 This comprehensive tool aims to provide a seamless experience for both cottage owners and prospective renters, offering detailed property information and advanced search capabilities. The platform will revolutionize the cottage rental landscape, ensuring accuracy, efficiency, and enhanced user satisfaction.
+
+<p><a href="https://github.com/SlimChi/PROGICA-APIREST" target="_blank">Voir le code source sur GitHub</a></p>
+

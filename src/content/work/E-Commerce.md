@@ -1,6 +1,6 @@
 ---
 title: E-Commerce Application Java-React
-publishDate: 2019-10-02 00:00:00
+publishDate: 2020-03-05 00:00:00
 img: /assets/stock-4.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
@@ -23,3 +23,9 @@ Security is a top priority for BazarShop. The application employs robust encrypt
 In addition to its core e-commerce functionalities, BazarShop integrates social features, allowing users to share their favorite products on various platforms. The application is designed to be responsive and accessible, catering to users across different devices and screen sizes.
 
 BazarShop represents a cutting-edge solution for individuals and businesses seeking a reliable and scalable e-commerce platform. With its Java backend, React frontend, and a comprehensive set of features, BazarShop stands as a testament to the commitment to delivering a top-tier online shopping experience.
+
+
+
+<p><a href="https://github.com/SlimChi/e-commerce-BackEnd" target="_blank">View source back end code on GitHub</a> </br></br>
+<a href="https://github.com/SlimChi/e_commerce-React" target="_blank">View source front end code on GitHub</a>
+</p>

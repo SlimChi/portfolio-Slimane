@@ -1,11 +1,11 @@
 ---
 title: ShareCar App with PHP Symfony-React
-publishDate: 2019-12-01 00:00:00
+publishDate: 2020-03-08 00:00:00
 img: /assets/stock-2.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  Revolutionizing Shared Mobility: An Innovative Point-Based Carpooling Platform with User-Centric Features and Administrative Excellence.
-
+  We paired with a cutting-edge music API and a team of horticulturalists
+  to build AI-generated playlists that maximize houseplant health.
 tags:
   - Dev
   - Branding
@@ -65,3 +65,5 @@ Comment Dictionary (optional)
 Anonymize Comments (client-side)
 Report a Comment
 This comprehensive carpooling platform goes beyond the traditional rideshare model by introducing a point-based system, fostering a sense of community and reducing financial transactions. With robust user profiles, journey management features, and an intuitive interface, the application aims to redefine the carpooling experience. The administrative tools ensure efficient platform management, creating a secure and user-friendly environment for all participants.
+
+<p><a href="https://github.com/INCUBATEUR-M2i-AFPA/share-car-backend" target="_blank">Voir le code source sur GitHub</a></p>
