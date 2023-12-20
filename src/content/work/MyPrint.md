@@ -4,7 +4,7 @@ publishDate: 2020-03-06 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Revolutionizing Reproduction: Unveiling My-Print App – Simplifying Document Printing with Efficiency and Quality!
 tags:
   - Design
   - Dev Back-end
