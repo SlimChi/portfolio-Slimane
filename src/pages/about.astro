@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="About | Slimane CHIHATI" description="Slimane CHIHATI ">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="About"
+				tagline="Thanks for stopping by. Read below to learn more about myself and my background."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="Jeanine White at work with a colleague"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						As a Civil Engineering engineer retrained in the field of IT, I recently completed my training as an Application Designer and Developer at AFPA in Roubaix. I am looking for exciting opportunities as a junior developer. I have a solid knowledge base in software development and I acquired practical skills during concrete projects during my training. I am passionate about programming and I am constantly on the lookout for the latest technologies and best practices in the sector. I am motivated, curious and I adapt quickly to new technologies and dynamic work environments. I am ready to take on new challenges and actively contribute to the success of a company by providing innovative and high-quality solutions. I invite you to consult my LinkedIn profile to learn more about my background and my skills. I am open to professional opportunities in the field of software development and I look forward to being part of a dynamic team and learning.
+
+						Trained in the development of heavy client/web/mobile applications, I was able to carry out projects requiring mastery of:
+						- MSSQLServer database design (MCD/MLD)
+						- Talend data integration
+						- Code & interface JavaJEE/Kotlin, Hibernate, JSF, PrimeFaces
+						- Restful spring boot/Quarkus / Quarkus Reactive API.
+						- Docker containerization.
+						- Github/GitLab
+						- Deployment: Ansible & Jenkins
+						-React
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Education</h2>
+				<div class="content">
+					<p>Corporis voluptates tenetur laudantium.</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>officia unde omnis</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
