@@ -1,5 +1,5 @@
 ---
-title: Pendu JAVASCRIPT
+title: Hangman JAVASCRIPT
 publishDate: 2020-03-07 00:00:00
 img: /assets/stock-5.jpg
 img_alt: Hangman 
