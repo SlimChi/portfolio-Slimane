@@ -28,7 +28,7 @@ The application's forte lies in its ability to handle invoice management efficie
 In summary, "crmClient" represents a harmonious synergy between a powerful Java backend and a responsive Angular frontend. As a client-centric application, it empowers businesses to manage client relationships effectively while providing robust tools for handling the intricacies of invoicing. Whether used by small enterprises or large corporations, "crmClient" stands as a testament to innovation and efficiency in the realm of customer relationship and invoice management.
 
 
-<p><a href="https://github.com/SlimChi/CrmClientFActuresBAck" target="_blank">View source front end code on GitHub</a> </br></br>
+<p><a href="https://github.com/SlimChi/CrmClientFActuresBAck" target="_blank">View source back end code on GitHub</a> </br></br>
 <a href="https://github.com/SlimChi/CrmClientFActuresFrontAngular" target="_blank">View source front end code on GitHub</a>
 </p>
 

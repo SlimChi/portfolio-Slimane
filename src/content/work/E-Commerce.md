@@ -26,6 +26,6 @@ BazarShop represents a cutting-edge solution for individuals and businesses seek
 
 
 
-<p><a href="https://github.com/SlimChi/e-commerce-BackEnd" target="_blank">View source front end code on GitHub</a> </br></br>
+<p><a href="https://github.com/SlimChi/e-commerce-BackEnd" target="_blank">View source back end code on GitHub</a> </br></br>
 <a href="https://github.com/SlimChi/e_commerce-React" target="_blank">View source front end code on GitHub</a>
 </p>
