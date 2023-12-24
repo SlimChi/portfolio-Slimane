@@ -68,4 +68,4 @@ This comprehensive carpooling platform goes beyond the traditional rideshare mod
 
 <p><a href="https://github.com/SlimChi/share-car-backend" target="_blank">View source back end code on GitHub</a> </br></br>
 
-<p><a href="https://github.com/INCUBATEUR-M2i-AFPA/share-car-backend" target="_blank">View source front end code on GitHub</a></p>
+<p><a href="https://github.com/SlimChi/ShareCarFrontEndReact" target="_blank">View source front end code on GitHub</a></p>
